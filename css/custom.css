@@ -3,3 +3,31 @@ body {
   font-size: 20px;
   line-height: 1.5;
 }
+
+header {
+  position: fixed;
+  top: 40px;
+  left: 40px;
+}
+h3 {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+p {
+  color: #ffffff;
+}
+
+section {
+  background-image: url(image1.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+footer {
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+}
